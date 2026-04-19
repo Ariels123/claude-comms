@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2A1208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+  <title>Persian castle</title>
+  <!-- tall narrow tower with crenellated top -->
+  <path d="M32 95 L32 35 L39 35 L39 29 L46 29 L46 35 L54 35 L54 28 L61 28 L61 35 L68 35 L68 95 Z" fill="#C4903A"/>
+  <!-- conical cap -->
+  <path d="M38 28 L50 13 L62 28 Z" fill="#C4903A"/>
+  <!-- finial ball -->
+  <circle cx="50" cy="11" r="1.8" fill="#5b3a14"/>
+  <!-- arched gate -->
+  <path d="M43 95 L43 78 Q43 72 50 72 Q57 72 57 78 L57 95 Z" fill="#2A1208"/>
+  <!-- arrow slit -->
+  <rect x="48" y="52" width="4" height="6" fill="#2A1208"/>
+  <!-- ground -->
+  <line x1="28" y1="95" x2="72" y2="95" stroke-width="2.6"/>
+</svg>

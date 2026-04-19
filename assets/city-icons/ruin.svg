@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2A1208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+  <title>Ruin</title>
+  <!-- broken wall silhouette: left side partially intact, right collapsed -->
+  <path d="M20 95 L20 50 L28 50 L28 42 L36 42 L36 52 L42 48 L46 62 L52 55 L58 72 L66 60 L72 68 L78 58 L80 95 Z" fill="#C4903A"/>
+  <!-- surviving arched gate -->
+  <path d="M42 95 L42 78 Q42 72 48 72 Q54 72 54 78 L54 95 Z" fill="#2A1208"/>
+  <!-- rubble hints at base -->
+  <path d="M6 95 L10 92 L14 95 L18 93 L22 95 Z" fill="#5b3a14" stroke="none"/>
+  <path d="M78 95 L82 93 L86 95 L90 92 L94 95 Z" fill="#5b3a14" stroke="none"/>
+  <!-- ground -->
+  <line x1="4" y1="95" x2="96" y2="95" stroke-width="2.6"/>
+</svg>

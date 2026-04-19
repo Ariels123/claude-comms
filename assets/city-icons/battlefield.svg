@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2A1208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+  <title>Battlefield</title>
+  <!-- curved saber blade (lower-left to upper-right) -->
+  <path d="M16 84 Q50 52 84 16" stroke-width="3" fill="none"/>
+  <!-- saber guard -->
+  <line x1="12" y1="88" x2="22" y2="78" stroke="#5b3a14" stroke-width="4"/>
+  <!-- saber pommel -->
+  <circle cx="13" cy="87" r="3" fill="#5b3a14"/>
+  <!-- saber tip -->
+  <path d="M84 16 L90 12 L86 22 Z" fill="#2A1208"/>
+  <!-- spear shaft -->
+  <line x1="16" y1="16" x2="84" y2="84" stroke-width="2.5"/>
+  <!-- spear leaf head -->
+  <path d="M16 16 L10 14 L12 8 L22 10 L20 22 Z" fill="#2A1208"/>
+  <!-- spear butt -->
+  <circle cx="85" cy="85" r="3" fill="#5b3a14"/>
+  <!-- red pennant at cross-point -->
+  <path d="M50 50 L72 47 L68 56 L72 65 L50 62 Z" fill="#8B1A1A" stroke-width="1.6"/>
+</svg>

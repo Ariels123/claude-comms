@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2A1208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+  <title>Neighborhood mosque</title>
+  <!-- base (centered around x=46) -->
+  <rect x="26" y="60" width="40" height="35" fill="#C4903A"/>
+  <!-- small dome, centered on base -->
+  <path d="M38 62 Q38 48 46 45 Q54 48 54 62 Z" fill="#C4903A"/>
+  <!-- dome finial -->
+  <line x1="46" y1="45" x2="46" y2="40" stroke-width="1.6"/>
+  <circle cx="46" cy="39" r="1.5" fill="#5b3a14"/>
+  <!-- squat minaret abutting right edge of base -->
+  <rect x="68" y="45" width="8" height="50" fill="#C4903A"/>
+  <path d="M67 45 L72 39 L77 45 Z" fill="#C4903A"/>
+  <rect x="66" y="53" width="12" height="2.5" fill="#5b3a14"/>
+  <!-- entry, centered on base -->
+  <path d="M42 95 L42 82 Q42 77 46 77 Q50 77 50 82 L50 95 Z" fill="#2A1208"/>
+  <!-- ground -->
+  <line x1="22" y1="95" x2="80" y2="95" stroke-width="2.6"/>
+</svg>

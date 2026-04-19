@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2A1208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+  <title>Mountain pass</title>
+  <!-- left peak (taller) -->
+  <path d="M8 95 L35 28 L48 52 L48 95 Z" fill="#C4903A"/>
+  <!-- right peak (shorter) -->
+  <path d="M52 95 L52 52 L65 42 L92 95 Z" fill="#C4903A"/>
+  <!-- left snow-cap -->
+  <path d="M29 38 L35 28 L40 40 Z" fill="#5b3a14"/>
+  <!-- right snow-cap -->
+  <path d="M60 48 L65 42 L70 50 Z" fill="#5b3a14"/>
+  <!-- path through the notch -->
+  <path d="M46 68 Q50 64 54 68" stroke-width="1.5" fill="none"/>
+  <!-- ground -->
+  <line x1="6" y1="95" x2="94" y2="95" stroke-width="2.6"/>
+</svg>

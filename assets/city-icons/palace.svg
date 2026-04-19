@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2A1208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+  <title>Palace</title>
+  <!-- wide base tier -->
+  <rect x="10" y="70" width="80" height="25" fill="#C4903A"/>
+  <!-- middle tier -->
+  <rect x="20" y="55" width="60" height="15" fill="#C4903A"/>
+  <!-- central pishtaq -->
+  <rect x="36" y="30" width="28" height="65" fill="#C4903A"/>
+  <!-- large iwan opening -->
+  <path d="M40 95 L40 55 Q40 42 50 42 Q60 42 60 55 L60 95 Z" fill="#2A1208"/>
+  <!-- crowning dome -->
+  <path d="M44 30 Q44 22 50 19 Q56 22 56 30 Z" fill="#C4903A"/>
+  <!-- finial -->
+  <line x1="50" y1="19" x2="50" y2="15" stroke-width="1.6"/>
+  <circle cx="50" cy="14" r="1.5" fill="#5b3a14"/>
+  <!-- middle tier small windows -->
+  <rect x="26" y="60" width="3" height="6" fill="#2A1208"/>
+  <rect x="71" y="60" width="3" height="6" fill="#2A1208"/>
+  <!-- ground -->
+  <line x1="6" y1="95" x2="94" y2="95" stroke-width="2.6"/>
+</svg>

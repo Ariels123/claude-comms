@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2A1208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+  <title>Caravanserai</title>
+  <!-- single continuous silhouette: corner turrets + main wall + raised central pishtaq -->
+  <path d="M10 95 L10 48 L14 42 L18 48 L18 55 L34 55 L34 48 L66 48 L66 55 L82 55 L82 48 L86 42 L90 48 L90 95 Z" fill="#C4903A"/>
+  <!-- arched gate cut-in -->
+  <path d="M38 95 L38 68 Q38 58 50 58 Q62 58 62 68 L62 95 Z" fill="#2A1208"/>
+  <!-- slit windows -->
+  <rect x="22" y="65" width="3" height="9" fill="#2A1208"/>
+  <rect x="75" y="65" width="3" height="9" fill="#2A1208"/>
+  <!-- ground -->
+  <line x1="6" y1="95" x2="94" y2="95" stroke-width="2.6"/>
+</svg>

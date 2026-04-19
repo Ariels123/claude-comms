@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2A1208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+  <title>Turkic steppe castle</title>
+  <!-- battered trapezoidal walls with two asymmetric merlons -->
+  <path d="M14 95 L22 55 L28 55 L28 43 L46 43 L46 55 L56 55 L56 40 L74 40 L74 55 L78 55 L86 95 Z" fill="#C4903A"/>
+  <!-- arched gate -->
+  <path d="M41 95 L41 73 Q41 65 50 65 Q59 65 59 73 L59 95 Z" fill="#2A1208"/>
+  <!-- ground -->
+  <line x1="10" y1="95" x2="90" y2="95" stroke-width="2.6"/>
+</svg>

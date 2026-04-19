@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2A1208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+  <title>Fortified town</title>
+  <!-- crenellated fortress silhouette (3 merlons) -->
+  <path d="M20 95 L20 45 L28 45 L28 38 L40 38 L40 45 L48 45 L48 37 L60 37 L60 45 L72 45 L72 38 L80 38 L80 45 L80 95 Z" fill="#C4903A"/>
+  <!-- arched gate -->
+  <path d="M42 95 L42 72 Q42 63 50 63 Q58 63 58 72 L58 95 Z" fill="#2A1208"/>
+  <!-- ground -->
+  <line x1="16" y1="95" x2="84" y2="95" stroke-width="2.6"/>
+</svg>

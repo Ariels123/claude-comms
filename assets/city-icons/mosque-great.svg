@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2A1208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+  <title>Great mosque</title>
+  <!-- prayer hall base -->
+  <rect x="22" y="60" width="56" height="35" fill="#C4903A"/>
+  <!-- dome drum -->
+  <rect x="37" y="50" width="26" height="10" fill="#C4903A"/>
+  <!-- central pointed dome -->
+  <path d="M35 52 Q35 34 50 27 Q65 34 65 52 Z" fill="#C4903A"/>
+  <!-- finial -->
+  <line x1="50" y1="27" x2="50" y2="21" stroke-width="1.8"/>
+  <circle cx="50" cy="19" r="1.8" fill="#5b3a14"/>
+  <!-- left minaret -->
+  <rect x="15" y="25" width="5" height="70" fill="#C4903A"/>
+  <path d="M14 25 L17.5 18 L21 25 Z" fill="#C4903A"/>
+  <rect x="13" y="36" width="9" height="2.5" fill="#5b3a14"/>
+  <!-- right minaret -->
+  <rect x="80" y="25" width="5" height="70" fill="#C4903A"/>
+  <path d="M79 25 L82.5 18 L86 25 Z" fill="#C4903A"/>
+  <rect x="78" y="36" width="9" height="2.5" fill="#5b3a14"/>
+  <!-- central entry -->
+  <path d="M46 95 L46 80 Q46 74 50 74 Q54 74 54 80 L54 95 Z" fill="#2A1208"/>
+  <!-- ground -->
+  <line x1="10" y1="95" x2="90" y2="95" stroke-width="2.6"/>
+</svg>
