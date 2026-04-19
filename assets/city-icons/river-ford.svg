@@ -1,16 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2A1208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
   <title>River ford</title>
   <!-- upper wavy water line -->
-  <path d="M8 55 Q18 49 28 55 Q38 61 48 55 Q58 49 68 55 Q78 61 88 55" fill="none"/>
+  <path d="M8 35 Q18 29 28 35 Q38 41 48 35 Q58 29 68 35 Q78 41 88 35" fill="none"/>
   <!-- lower wavy water line -->
-  <path d="M8 82 Q18 76 28 82 Q38 88 48 82 Q58 76 68 82 Q78 88 88 82" fill="none"/>
-  <!-- stepping stones -->
-  <ellipse cx="28" cy="69" rx="6" ry="4" fill="#C4903A" stroke-width="1.5"/>
-  <ellipse cx="50" cy="69" rx="7" ry="4.5" fill="#C4903A" stroke-width="1.5"/>
-  <ellipse cx="72" cy="69" rx="6" ry="4" fill="#C4903A" stroke-width="1.5"/>
+  <path d="M8 65 Q18 59 28 65 Q38 71 48 65 Q58 59 68 65 Q78 71 88 65" fill="none"/>
+  <!-- stepping stones at center y=50 (this IS the geographic anchor point) -->
+  <ellipse cx="28" cy="50" rx="6" ry="4" fill="#C4903A" stroke-width="1.5"/>
+  <ellipse cx="50" cy="50" rx="7" ry="4.5" fill="#C4903A" stroke-width="1.5"/>
+  <ellipse cx="72" cy="50" rx="6" ry="4" fill="#C4903A" stroke-width="1.5"/>
   <!-- secondary current ripples -->
-  <path d="M14 62 Q18 60 22 62" stroke="#5b3a14" stroke-width="1.2" fill="none"/>
-  <path d="M78 75 Q82 73 86 75" stroke="#5b3a14" stroke-width="1.2" fill="none"/>
-  <!-- bank/ground -->
-  <line x1="4" y1="95" x2="96" y2="95" stroke="#5b3a14" stroke-width="2"/>
+  <path d="M14 43 Q18 41 22 43" stroke="#5b3a14" stroke-width="1.2" fill="none"/>
+  <path d="M78 57 Q82 55 86 57" stroke="#5b3a14" stroke-width="1.2" fill="none"/>
 </svg>
